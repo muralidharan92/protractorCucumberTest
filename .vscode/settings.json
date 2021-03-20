@@ -1,0 +1,6 @@
+{
+    "cucumberautocomplete.steps": [
+        "e2e/src/stepDefinitions/*.ts",
+    ],
+    "cucumberautocomplete.syncfeatures": "e2e/src/features/*feature"
+}
